@@ -1,4 +1,4 @@
-## Author: Luke Jays 
+## Author: L. Jays 
 ## Source: Roger D. Peng, https://github.com/rdpeng/ProgrammingAssignment2
 ## 1) The makeCacheMatrix() function creates a list object consisting of
 ##    four functions: setting a matrix, getting the matrix, setting the
